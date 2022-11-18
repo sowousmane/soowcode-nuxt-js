@@ -15,7 +15,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'png', type: 'image', href: '/favicon.png' }
     ]
   },
 

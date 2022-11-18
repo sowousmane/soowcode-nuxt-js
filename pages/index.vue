@@ -7,12 +7,12 @@
       </v-card>
       <v-card>
         <v-card-title class="headline">
-          Welcome to the Vuetify + Nuxt.js template
+          Bienvenue à SoowCode
         </v-card-title>
         <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
+          <p>Ici, nous partageons nos expériences, nos connaissances, et acceptons les erreurs afin de les corriger.</p>
           <p>
-            For more information on Vuetify, check out the <a
+            Pour plus d'informations<a
               href="https://vuetifyjs.com"
               target="_blank"
               rel="noopener noreferrer"
@@ -21,7 +21,7 @@
             </a>.
           </p>
           <p>
-            If you have questions, please join the official <a
+            Si vous avez des question please, contactez ici <a
               href="https://chat.vuetifyjs.com/"
               target="_blank"
               rel="noopener noreferrer"
@@ -40,7 +40,7 @@
               issue board
             </a>.
           </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
+          <p>Pour participer à cette communauté, c'est par ici.</p>
           <div class="text-xs-right">
             <em><small>&mdash; John Leider</small></em>
           </div>
